@@ -13,4 +13,4 @@ LEFT JOIN
 ON 
     a.campaign_id = b.campaign_id
 GROUP BY
-    1;
+    campaign_name;

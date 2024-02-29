@@ -21,7 +21,7 @@ WITH cte AS (
     WHERE
         c.campaign_name = "Diwali"
     GROUP BY
-        1
+        category
 )
 SELECT
     category,

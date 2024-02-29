@@ -11,4 +11,4 @@ ON
 WHERE
     a.promo_type = "BOGOF" AND a.base_price > 500
 GROUP BY
-    1;
+    products;
