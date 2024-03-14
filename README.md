@@ -3,7 +3,7 @@
 ## Business Requests:
 
 1. High-value Products with heavy discounts:
-![business_request_1](https://github.com/Vivek-S1n9h/codebasics_project_challenge_9/Images/result/Business_request_1_result.PNG)
+![business_request_1](https://github.com/Vivek-S1n9h/codebasics_project_challenge_9/blob/main/Images/task/business_request_1.PNG)
 
 2. Cities with the highest store Presence:
 ![business_request_2](https://github.com/Vivek-S1n9h/codebasics_project_challenge_9/assets/121023465/e24ccdb5-a962-4054-a49c-56d3dc8b1052)
