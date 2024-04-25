@@ -7,6 +7,9 @@ I'm excited to share my latest project on analyzing promotions at AtliQ Mart! Le
 
 AtliQ Mart, a retail giant in the southern region of India, conducted massive promotions during Diwali 2023 and Sankranti 2024 on their AtliQ branded products. The Sales Director, Bruce Haryali, seeks insights into the effectiveness of these promotions to inform decisions for future promotional periods.
 
+**Business task:**
+Understand the effect of past promotions/campaign (Diwali 2023 and Sankranti 2024) trends and recommend a fact driven strategy to make informed decisions for their next promotional period.
+
 ## Project Objectives
 
 - Analyze promotion datasets thoroughly.
