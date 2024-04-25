@@ -1,71 +1,48 @@
-# Codebasics Project Challenge 9
+# AtliQ Mart Promotional Analysis
 
-## Business Requests:
+**Summary**:
+I'm excited to share my latest project on analyzing promotions at AtliQ Mart! Leveraging SQL and PowerBI, I've provided actionable insights to optimize future promotional strategies. Check out the presentation video for a deep dive into the analysis.
 
-### Business Task 1:
-**High-value Products with heavy discounts:**
+## Project Overview
 
-![business_request_1](https://github.com/Vivek-S1n9h/codebasics_project_challenge_9/blob/main/Images/task/business_request_1.PNG)
+AtliQ Mart, a retail giant in the southern region of India, conducted massive promotions during Diwali 2023 and Sankranti 2024 on their AtliQ branded products. The Sales Director, Bruce Haryali, seeks insights into the effectiveness of these promotions to inform decisions for future promotional periods.
 
-**Solution Query:**
+## Project Objectives
 
-![business_request_1 sql](https://github.com/Vivek-S1n9h/codebasics_project_challenge_9/blob/main/Images/sql_queries/Business_request_1_sql.PNG)
+- Analyze promotion datasets thoroughly.
+- Design a self-explanatory dashboard with metrics and analysis.
+- Generate SQL-based reports to answer business questions.
+- Create a presentation with actionable insights for the sales director.
 
-**Result:**
+## Stakeholders
 
-![business_request_1 result](https://github.com/Vivek-S1n9h/codebasics_project_challenge_9/blob/main/Images/result/Business_request_1_result.PNG)
+- Sales Director(Main): Bruce Haryali
+- Manager(Support): Tony Sharma
 
-### Business Task 2:
-**Cities with the highest store Presence:**
+## Steps Taken
 
-![business_request_2](https://github.com/Vivek-S1n9h/codebasics_project_challenge_9/blob/main/Images/task/business_request_2.PNG)
+1. **Metadata Analysis**: Thoroughly analyzed the datasets to understand the data structure and variables.
+2. **Dashboard Design**: Created a [PowerBI dashboard](link_to_powerbi_dashboard) with interactive features for exploring promotion performance.
+3. **SQL-Based Reports**: Generated reports to answer business questions posed by senior executives. [Sample SQL Code Snippets](link_to_sql_code_snippets) are provided.
+4. **Presentation Creation**: Developed a presentation with actionable insights and recommendations for the sales director. [Link to Presentation Video](presentation_video_link)
+5. **Additional Research Questions**: Addressed additional research questions to enhance insights.
 
-**Solution Query:**
+## Deliverables
 
-![business_request_2 sql](https://github.com/Vivek-S1n9h/codebasics_project_challenge_9/blob/main/Images/sql_queries/Business_request_2_sql.PNG)
+- **Dashboard**: Self-explanatory visualization of promotion performance. [Link to PowerBI Dashboard](link_to_powerbi_dashboard)
+- **SQL Reports**: Answered business questions posed by senior executives. [Sample SQL Code Snippets](link_to_sql_code_snippets)
+- **Presentation**: Convincing presentation with actionable insights for the sales director. [Link to Presentation Video](presentation_video_link)
+- **LinkedIn Post**: Online Interaction and responses[Link to LinkedIn Post](link_to_linkedin_post)
 
-**Result:**
+## Recommendations
 
-![business_request_2 result](https://github.com/Vivek-S1n9h/codebasics_project_challenge_9/blob/main/Images/result/Business_request_2_result.PNG)
+Based on the analysis, here are some recommendations for future promotional strategies:
 
-### Business Task 3:
-**Financial impact of the promotional campaign:**
+1. Focus on promotions with higher ROI, as indicated by sales uplift and profitability metrics.
+2. Utilize customer segmentation to tailor promotions for different demographic groups.
+3. Incorporate feedback from customer surveys to enhance promotion effectiveness.
+4. Implement A/B testing for promotional strategies to identify the most impactful approaches.
 
-![business_request_3](https://github.com/Vivek-S1n9h/codebasics_project_challenge_9/blob/main/Images/task/business_request_3.PNG)
+## Reflection
 
-**Solution Query:**
-
-![business_request_3 sql](https://github.com/Vivek-S1n9h/codebasics_project_challenge_9/blob/main/Images/sql_queries/Business_request_3_sql.PNG)
-
-**Result:**
-
-![business_request_3 result](https://github.com/Vivek-S1n9h/codebasics_project_challenge_9/blob/main/Images/result/Business_request_3_result.PNG)
-
-### Business Task 4:
-**Impact of the Diwali campaign on incremental sales:**
-
-![business_request_4](https://github.com/Vivek-S1n9h/codebasics_project_challenge_9/blob/main/Images/task/business_request_4.PNG)
-
-**Solution Query:**
-
-![business_request_4-1 sql](https://github.com/Vivek-S1n9h/codebasics_project_challenge_9/blob/main/Images/sql_queries/Business_request_4-1_sql.PNG)
-![business_request_4-2 sql](https://github.com/Vivek-S1n9h/codebasics_project_challenge_9/blob/main/Images/sql_queries/Business_request_4-2_sql.PNG)
-
-**Result**
-
-![business_request_4 result](https://github.com/Vivek-S1n9h/codebasics_project_challenge_9/blob/main/Images/result/Business_request_4_result.PNG)
-
-### Business Task 5:
-**Most successful products in terms of Incremental Revenue:**
-
-![business_request_5](https://github.com/Vivek-S1n9h/codebasics_project_challenge_9/blob/main/Images/task/business_request_5.PNG)
-
-**Solution Query:**
-
-![business_request_5-1 sql](https://github.com/Vivek-S1n9h/codebasics_project_challenge_9/blob/main/Images/sql_queries/Business_request_5-1_sql.PNG)
-![business_request_5-2 sql](https://github.com/Vivek-S1n9h/codebasics_project_challenge_9/blob/main/Images/sql_queries/Business_request_5-2_sql.PNG)
-
-**Result**
-
-![business_request_5 result](https://github.com/Vivek-S1n9h/codebasics_project_challenge_9/blob/main/Images/result/Business_request_5_result.PNG)
-
+Working on this project was both challenging and rewarding. Analyzing promotion data and translating insights into actionable recommendations required a comprehensive understanding of both the datasets and business objectives. Through details provided by the stakeholders and leveraging SQL and visualization tools, I was able to deliver valuable insights to drive informed decision-making.

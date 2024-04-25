@@ -68,4 +68,3 @@
 **Result**
 
 ![business_request_5 result](https://github.com/Vivek-S1n9h/codebasics_project_challenge_9/blob/main/ad_hoc_analysis/Images/result/Business_request_5_result.PNG)
-
