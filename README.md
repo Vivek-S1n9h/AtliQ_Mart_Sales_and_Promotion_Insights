@@ -23,14 +23,14 @@ AtliQ Mart, a retail giant in the southern region of India, conducted massive pr
 
 1. **Metadata Analysis**: Thoroughly analyzed the datasets to understand the data structure and variables.
 2. **Dashboard Design**: Created a [PowerBI dashboard](link_to_powerbi_dashboard) with interactive features for exploring promotion performance.
-3. **SQL-Based Reports**: Generated reports to answer business questions posed by senior executives. [Sample SQL Code Snippets](link_to_sql_code_snippets) are provided.
+3. **SQL-Based Reports**: Generated reports to answer business questions posed by senior executives. [SQL Codes Overview](https://github.com/Vivek-S1n9h/codebasics_project_challenge_9/blob/main/ad_hoc_analysis/ad_hoc_analysis_using_sql.md) are provided.
 4. **Presentation Creation**: Developed a presentation with actionable insights and recommendations for the sales director. [Link to Presentation Video](presentation_video_link)
 5. **Additional Research Questions**: Addressed additional research questions to enhance insights.
 
 ## Deliverables
 
 - **Dashboard**: Self-explanatory visualization of promotion performance. [Link to PowerBI Dashboard](link_to_powerbi_dashboard)
-- **SQL Reports**: Answered business questions posed by senior executives. [Sample SQL Code Snippets](link_to_sql_code_snippets)
+- **SQL Reports**: Answered business questions posed by senior executives. [SQL Codes Overview](https://github.com/Vivek-S1n9h/codebasics_project_challenge_9/blob/main/ad_hoc_analysis/ad_hoc_analysis_using_sql.md)
 - **Presentation**: Convincing presentation with actionable insights for the sales director. [Link to Presentation Video](presentation_video_link)
 - **LinkedIn Post**: Online Interaction and responses[Link to LinkedIn Post](link_to_linkedin_post)
 
